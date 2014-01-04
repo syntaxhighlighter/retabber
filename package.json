@@ -19,13 +19,16 @@
     "url": "https://github.com/alexgorbatchev/retabber.git"
   },
   "scripts": {
-    "test": "./node_modules/.bin/mocha test/spec.coffee"
+    "test": "./node_modules/.bin/grunt test"
   },
   "devDependencies": {
     "chai": "~1.8.1",
     "coffee-errors": "~0.8.5",
     "coffee-script": "~1.6.3",
-    "mocha": "~1.16.2"
+    "mocha": "~1.16.2",
+    "grunt": "~0.4.2",
+    "grunt-mocha-cli": "~1.5.0",
+    "grunt-contrib-watch": "~0.5.3"
   },
   "engines": {
     "node": ">=0.10.0",
