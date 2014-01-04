@@ -1,0 +1,42 @@
+{
+  "name": "retabber",
+  "version": "0.5.0",
+  "description": "Replaces all tab characters with in a smart way, spaces similiar to what your regular IDE does.",
+  "keywords": [
+    "tabs",
+    "smart"
+  ],
+  "homepage": "https://github.com/alexgorbatchev/retabber",
+  "bugs": "https://github.com/alexgorbatchev/retabber/issues",
+  "author": {
+    "name": "Alex Gorbatchev",
+    "email": "",
+    "url": "https://github.com/alexgorbatchev"
+  },
+  "main": "./lib/retabber.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alexgorbatchev/retabber.git"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/spec.coffee"
+  },
+  "devDependencies": {
+    "chai": "~1.6.0",
+    "coffee-errors": "~0.8.5",
+    "coffee-script": "~1.6.3",
+    "mocha": "~1.14.0"
+  },
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    },
+    {
+      "type": "LGPL"
+    }
+  ]
+}
