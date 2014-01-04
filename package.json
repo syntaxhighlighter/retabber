@@ -1,6 +1,6 @@
 {
   "name": "retabber",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Replaces all tab characters with in a smart way, spaces similiar to what your regular IDE does.",
   "keywords": [
     "tabs",
@@ -22,10 +22,10 @@
     "test": "./node_modules/.bin/mocha test/spec.coffee"
   },
   "devDependencies": {
-    "chai": "~1.6.0",
+    "chai": "~1.8.1",
     "coffee-errors": "~0.8.5",
     "coffee-script": "~1.6.3",
-    "mocha": "~1.14.0"
+    "mocha": "~1.16.2"
   },
   "engines": {
     "node": ">=0.10.0",
