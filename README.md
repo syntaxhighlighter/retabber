@@ -29,4 +29,4 @@ Replaces all tab characters with in a smart way, spaces similiar to what your re
 
 ## License
 
-LGPL & MIT
+GPL & MIT
