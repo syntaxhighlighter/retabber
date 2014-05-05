@@ -1,12 +1,12 @@
 # retabber
 
-Replaces all tab characters with in a smart way, spaces similiar to what your regular IDE does.
+[![Dependency status](https://david-dm.org/alexgorbatchev/retabber.svg)](https://david-dm.org/alexgorbatchev/retabber)
+[![devDependency Status](https://david-dm.org/alexgorbatchev/retabber/dev-status.svg)](https://david-dm.org/alexgorbatchev/retabber#info=devDependencies)
+[![Build Status](https://travis-ci.org/alexgorbatchev/retabber.svg)](https://travis-ci.org/alexgorbatchev/retabber)
 
-[![Dependency status](https://david-dm.org/alexgorbatchev/retabber.png)](https://david-dm.org/alexgorbatchev/retabber)
-[![devDependency Status](https://david-dm.org/alexgorbatchev/retabber/dev-status.png)](https://david-dm.org/alexgorbatchev/retabber#info=devDependencies)
-[![Build Status](https://travis-ci.org/alexgorbatchev/retabber.png)](https://travis-ci.org/alexgorbatchev/retabber)
+[![NPM](https://nodei.co/npm/retabber.svg?downloads=true&stars=true)](https://npmjs.org/package/retabber)
 
-[![NPM](https://nodei.co/npm/retabber.png?downloads=true&stars=true)](https://npmjs.org/package/retabber)
+Replaces all tab characters with spaces in a smart way so that columns visually align, similiar to what your regular IDE does.
 
 ## Installation
 
