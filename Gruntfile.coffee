@@ -12,7 +12,7 @@ module.exports = (grunt) ->
       options:
         'colors': not process.env.TRAVIS
         'check-leaks': true
-        'compilers': ['coffee:coffee-script']
+        'compilers': ['coffee:coffee-script/register']
         'recursive': yes
         'reporter': 'spec'
         'ui': 'bdd'
