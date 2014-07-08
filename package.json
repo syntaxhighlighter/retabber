@@ -6,17 +6,17 @@
     "tabs",
     "smart"
   ],
-  "homepage": "https://github.com/alexgorbatchev/retabber",
-  "bugs": "https://github.com/alexgorbatchev/retabber/issues",
+  "homepage": "https://github.com/syntaxhighlighter/retabber",
+  "bugs": "https://github.com/syntaxhighlighter/retabber/issues",
   "author": {
     "name": "Alex Gorbatchev",
     "email": "",
-    "url": "https://github.com/alexgorbatchev"
+    "url": "https://github.com/syntaxhighlighter"
   },
   "main": "./lib/retabber.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexgorbatchev/retabber.git"
+    "url": "https://github.com/syntaxhighlighter/retabber.git"
   },
   "scripts": {
     "test": "./node_modules/.bin/grunt test"
