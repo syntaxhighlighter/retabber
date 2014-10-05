@@ -1,8 +1,8 @@
 # retabber
 
-[![Dependency status](https://david-dm.org/syntaxhighlighter/retabber.svg)](https://david-dm.org/syntaxhighlighter/retabber)
-[![devDependency Status](https://david-dm.org/syntaxhighlighter/retabber/dev-status.svg)](https://david-dm.org/syntaxhighlighter/retabber#info=devDependencies)
-[![Build Status](https://travis-ci.org/syntaxhighlighter/retabber.svg)](https://travis-ci.org/syntaxhighlighter/retabber)
+[![Dependency status](https://david-dm.org/alexgorbatchev/retabber.svg)](https://david-dm.org/alexgorbatchev/retabber)
+[![devDependency Status](https://david-dm.org/alexgorbatchev/retabber/dev-status.svg)](https://david-dm.org/alexgorbatchev/retabber#info=devDependencies)
+[![Build Status](https://travis-ci.org/alexgorbatchev/retabber.svg)](https://travis-ci.org/alexgorbatchev/retabber)
 
 [![NPM](https://nodei.co/npm/retabber.svg)](https://npmjs.org/package/retabber)
 
@@ -29,4 +29,4 @@ Replaces all tab characters with spaces in a smart way so that columns visually 
 
 ## License
 
-GPL & MIT
+MIT
