@@ -1,6 +1,6 @@
 # retabber
 
-[![Build Status](https://travis-ci.org/alexgorbatchev/retabber.svg)](https://travis-ci.org/alexgorbatchev/retabber)
+[![Build Status](https://travis-ci.org/syntaxhighlighter/retabber.svg)](https://travis-ci.org/syntaxhighlighter/retabber)
 
 Replaces all tab characters with spaces in a smart way so that columns visually align, similiar to what your regular IDE does.
 
